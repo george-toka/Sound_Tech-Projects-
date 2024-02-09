@@ -18,7 +18,8 @@ Our first model is produced by K-MEANS-clustering and the second one by gaussian
 Then we calculate some metrics to assess our models' performance. The training is done using either LPC or MFCC coeeficients which define the key characteristics 
 of each individual instrument. <br>
 <br>
-<h5>3rd Project</h5>
+<h5>3rd Project</h5> 
+<br>
 In this project we have to implement 3 different sound effects. Distortion, Rotary (Speakers) & Reverb (Schroeder Reverberator model). 
 The implementation is pretty straightforward. We create a function for each effect based on their respective system functions-block diagrams,
 and pass the signal through this effect (function).
