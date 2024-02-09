@@ -1,5 +1,5 @@
 # Sound_Tech-Projects
-<h3> Sound Technology - Signal Processing using Matlab Routines</h3> <br>
+<h3> Sound Technology - Signal Processing using Matlab Routines</h3> 
 <br>
 In this course -roughly translated- "Technology of Sound" Matlab is used to solve various problems<br>
 involving signal processing methods as their basis (e.g Short-Time Fourier Transform). Three individual projects are implemented. 
@@ -22,3 +22,5 @@ of each individual instrument.
 In this project we have to implement 3 different sound effects. Distortion, Rotary (Speakers) & Reverb (Schroeder Reverberator model). 
 The implementation is pretty straightforward. We create a function for each effect based on their respective system functions-block diagrams,
 and pass the signal through this effect (function).
+<br>
+---All source (.m) files as well as the presentation (.xml) files are available(unfortunately in Greek)---
