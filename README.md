@@ -16,7 +16,7 @@ where a musical instrument-sound works as a metronome, meaning that its onsets a
 The purpose of this project is to classify musical instruments. The backbone of our solution are two machine learning algorithms for training.
 Our first model is produced by K-MEANS-clustering and the second one by gaussian distribution. This is essentially how we train and validate our models. 
 Then we calculate some metrics to assess our models' performance. The training is done using either LPC or MFCC coeeficients which define the key characteristics 
-of each individual instrument. <br>
+of each individual instrument. 
 <br>
 <h5>3rd Project</h5> 
 In this project we have to implement 3 different sound effects. Distortion, Rotary (Speakers) & Reverb (Schroeder Reverberator model). 
